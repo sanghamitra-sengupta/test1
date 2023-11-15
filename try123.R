@@ -10,3 +10,9 @@ print(b)
 
 c=4+5
 print(c)
+
+library(readr)
+library(sf)
+library(dplyr)
+library(ggplot2)
+library(readr)
